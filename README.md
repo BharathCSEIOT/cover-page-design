@@ -136,14 +136,13 @@ Edition&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&
 </html>
 ```
 ## Output:
-![output](./cover page.png)
+![cover page](https://github.com/BharathCSEIOT/cover-page-design/assets/122793480/0f080377-381f-441c-bc90-fc5f215babb5)
 
 ## HTML Validator
-![html](./html validator.png)
+![html validator](https://github.com/BharathCSEIOT/cover-page-design/assets/122793480/bbc24108-73f3-4652-97e0-01892cd5a020)
 
 ## server output
-![server](./server output(cover page).png)
-
+![server output(cover page)](https://github.com/BharathCSEIOT/cover-page-design/assets/122793480/3f486186-cf92-4ccd-b154-0fd339e0154e)
 
 ## Result:
 Thr program for designing book cover page using HTML and CSS is executed sucessfully.
